@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Wanstin.github.io</id>
+    <id>https://wanstin.github.io</id>
     <title>Wanstin</title>
-    <updated>2020-03-29T11:52:02.823Z</updated>
+    <updated>2020-03-29T12:20:08.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Wanstin.github.io"/>
-    <link rel="self" href="https://Wanstin.github.io/atom.xml"/>
+    <link rel="alternate" href="https://wanstin.github.io"/>
+    <link rel="self" href="https://wanstin.github.io/atom.xml"/>
     <subtitle>Test</subtitle>
-    <logo>https://Wanstin.github.io/images/avatar.png</logo>
-    <icon>https://Wanstin.github.io/favicon.ico</icon>
+    <logo>https://wanstin.github.io/images/avatar.png</logo>
+    <icon>https://wanstin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Wanstin</rights>
     <entry>
         <title type="html"><![CDATA[1111]]></title>
-        <id>https://Wanstin.github.io/post/1111/</id>
-        <link href="https://Wanstin.github.io/post/1111/">
+        <id>https://wanstin.github.io/post/1111/</id>
+        <link href="https://wanstin.github.io/post/1111/">
         </link>
         <updated>2020-03-29T11:46:40.000Z</updated>
         <content type="html"><![CDATA[<p>22222</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Wanstin.github.io/post/hello-gridea/</id>
-        <link href="https://Wanstin.github.io/post/hello-gridea/">
+        <id>https://wanstin.github.io/post/hello-gridea/</id>
+        <link href="https://wanstin.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
