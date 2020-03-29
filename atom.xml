@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wanstin.github.io</id>
     <title>Wanstin</title>
-    <updated>2020-03-29T12:32:24.429Z</updated>
+    <updated>2020-03-29T12:42:10.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wanstin.github.io"/>
     <link rel="self" href="https://wanstin.github.io/atom.xml"/>
@@ -11,44 +11,42 @@
     <icon>https://wanstin.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Wanstin</rights>
     <entry>
-        <title type="html"><![CDATA[1111]]></title>
-        <id>https://wanstin.github.io/post/1111/</id>
-        <link href="https://wanstin.github.io/post/1111/">
+        <title type="html"><![CDATA[快捷键]]></title>
+        <id>https://wanstin.github.io/post/kuai-jie-jian/</id>
+        <link href="https://wanstin.github.io/post/kuai-jie-jian/">
         </link>
-        <updated>2020-03-29T11:46:40.000Z</updated>
-        <content type="html"><![CDATA[<p>22222</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://wanstin.github.io/post/hello-gridea/</id>
-        <link href="https://wanstin.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+        <updated>2020-03-29T12:39:15.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>文本操作（通用）</strong>：<br>
+1.Ctrl+C = 复制<br>
+2.Ctrl+V = 粘贴<br>
+3.Ctrl+A = 全选<br>
+4.Ctrl+X = 剪切<br>
+5.Ctrl+Z = 撤回<br>
+6.Ctrl+Shift+R = 选中整块<br>
+7.End = 光标跳到行尾<br>
+8.Home = 光标跳到行首<br>
+9.Shift+Home = 选中从当前光标位置到这一行的行首<br>
+10.Shift+End = 选中从当前光标位置到这一行的行尾</p>
+<p><strong>Windows常用快捷键</strong>：<br>
+1.F3 = 打开资源管理器搜索结果<br>
+2.F11 = 最大化文件显示/恢复正常显示<br>
+3.Win+E = 打开&quot;我的电脑&quot;<br>
+4.Win+W = 关闭当前窗口<br>
+5.Win+R = 打开运行窗口<br>
+6.Win+D = 最小化所有窗口，显示桌面<br>
+7.Win+L = 锁定计算机，回到登录窗口<br>
+8.Win+M = 最小化当前窗口<br>
+9.Win+U = 打开设置<br>
+10.Win+Home = 将正在使用之外的所有其他窗口最小化<br>
+11.Win+break = 打开控制面板系统属性<br>
+12.Win+↑/↓/←/→ = 窗口位置<br>
+13.Ctrl+F = 查找（各种编辑器也通用）<br>
+14.Ctrl+D = 将选定项目至回收站<br>
+15.Ctrl+Shift+Esc = 打开资源管理器搜索当前页面<br>
+16.Ctrl+Shift+N = 新建文件<br>
+17.Alt+Tab = 切换至上个窗口<br>
+18.Alt+Enter = 打开选中项属性<br>
+19.Alt+F4 = 关闭当前程序</p>
 ]]></content>
     </entry>
 </feed>
