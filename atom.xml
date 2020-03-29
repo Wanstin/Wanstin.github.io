@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Wanstin.github.io</id>
-    <title>Gridea</title>
-    <updated>2020-03-29T11:49:21.139Z</updated>
+    <title>Wanstin</title>
+    <updated>2020-03-29T11:52:02.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Wanstin.github.io"/>
     <link rel="self" href="https://Wanstin.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>Test</subtitle>
     <logo>https://Wanstin.github.io/images/avatar.png</logo>
     <icon>https://Wanstin.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Gridea</rights>
+    <rights>All rights reserved 2020, Wanstin</rights>
     <entry>
         <title type="html"><![CDATA[1111]]></title>
         <id>https://Wanstin.github.io/post/1111/</id>
